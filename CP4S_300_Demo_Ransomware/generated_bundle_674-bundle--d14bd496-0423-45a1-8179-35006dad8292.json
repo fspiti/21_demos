@@ -41,7 +41,7 @@
                 "5": {
                     "name": "rbite-slushe.ch3",
                     "hashes": {
-                        "SHA3-256": "1BCd1Fb10ffA3a8eCb37FDad06012d9724f02FaeE5b7847cD0bCfc973FA3588B"
+                        "SHA-256": "1BCd1Fb10ffA3a8eCb37FDad06012d9724f02FaeE5b7847cD0bCfc973FA3588B"
                     },
                     "type": "file"
                 }
@@ -307,7 +307,7 @@
                 "5": {
                     "name": "ynagogue-animist.pva",
                     "hashes": {
-                        "SHA3-256": "c3Ac4DE0aB0C8D2123dd8ee0cf019BbcCfabc3D75AfB116c21AF7dD1af781CbA"
+                        "SHA-256": "c3Ac4DE0aB0C8D2123dd8ee0cf019BbcCfabc3D75AfB116c21AF7dD1af781CbA"
                     },
                     "type": "file"
                 }
@@ -611,7 +611,7 @@
                 "5": {
                     "name": "acklustr.301",
                     "hashes": {
-                        "SHA3-224": "b8FF83a194CF5A1D5BbfE0e4E0c2233BA7195c6E1E0AFFd7aE147D1E"
+                        "SHA-224": "b8FF83a194CF5A1D5BbfE0e4E0c2233BA7195c6E1E0AFFd7aE147D1E"
                     },
                     "type": "file"
                 }
