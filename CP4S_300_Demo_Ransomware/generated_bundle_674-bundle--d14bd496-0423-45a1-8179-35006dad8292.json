@@ -13,7 +13,7 @@
         {
             "id": "observed-data--db65d180-39ff-4c86-9986-ae8225709e2c",
             "number_observed": 1,
-            "first_observed": "2021-01-20T01:38:54.433029Z",
+            "first_observed": "2021-01-20T01:38:54.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -51,7 +51,7 @@
         {
             "id": "observed-data--96da8968-47d2-4cce-9f26-854cb4070d08",
             "number_observed": 1,
-            "first_observed": "2021-02-07T01:15:02.584458Z",
+            "first_observed": "2021-02-07T01:15:02.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -89,7 +89,7 @@
         {
             "id": "observed-data--695cf781-0a33-4ce8-b2a5-43afb5f86fbb",
             "number_observed": 1,
-            "first_observed": "2020-12-31T17:45:55.66442Z",
+            "first_observed": "2020-12-31T17:45:55.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -127,7 +127,7 @@
         {
             "id": "observed-data--3297599a-e022-4f77-9c2a-09fc27599ac7",
             "number_observed": 1,
-            "first_observed": "2021-02-07T19:43:19.771218Z",
+            "first_observed": "2021-02-07T19:43:19.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -165,7 +165,7 @@
         {
             "id": "observed-data--adde20b6-4134-4300-87f8-c878592a0eeb",
             "number_observed": 1,
-            "first_observed": "2021-03-16T00:12:30.730207Z",
+            "first_observed": "2021-03-16T00:12:30.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -203,7 +203,7 @@
         {
             "id": "observed-data--d4d1652a-5be2-4768-ba74-9ecedd4290a5",
             "number_observed": 1,
-            "first_observed": "2021-01-16T18:18:15.252143Z",
+            "first_observed": "2021-01-16T18:18:15.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -241,7 +241,7 @@
         {
             "id": "observed-data--be02528c-1777-4eb0-9beb-49bab31e702c",
             "number_observed": 1,
-            "first_observed": "2021-02-23T23:46:55.78774Z",
+            "first_observed": "2021-02-23T23:46:55.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -279,7 +279,7 @@
         {
             "id": "observed-data--1188eac0-3f36-43b1-be5a-09473c519356",
             "number_observed": 1,
-            "first_observed": "2021-01-10T13:00:02.428864Z",
+            "first_observed": "2021-01-10T13:00:02.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -317,7 +317,7 @@
         {
             "id": "observed-data--c224ee23-138f-448b-9de5-729d931a121f",
             "number_observed": 1,
-            "first_observed": "2021-02-17T19:38:23.316876Z",
+            "first_observed": "2021-02-17T19:38:23.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -355,7 +355,7 @@
         {
             "id": "observed-data--be055a02-b2e9-4cf6-a430-806ac5da0178",
             "number_observed": 1,
-            "first_observed": "2021-03-08T17:35:14.72491Z",
+            "first_observed": "2021-03-08T17:35:14.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -393,7 +393,7 @@
         {
             "id": "observed-data--88c72d43-4a3b-42cf-90fa-61ee01a7b7c9",
             "number_observed": 1,
-            "first_observed": "2021-01-16T21:20:45.952772Z",
+            "first_observed": "2021-01-16T21:20:45.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -431,7 +431,7 @@
         {
             "id": "observed-data--a606acc8-25e0-418c-b708-fbc9cfbd8420",
             "number_observed": 1,
-            "first_observed": "2021-01-16T21:47:21.901089Z",
+            "first_observed": "2021-01-16T21:47:21.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -469,7 +469,7 @@
         {
             "id": "observed-data--b82f95c3-07f0-4d11-85cc-53a9fe650de1",
             "number_observed": 1,
-            "first_observed": "2021-02-10T14:57:40.099479Z",
+            "first_observed": "2021-02-10T14:57:40.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -507,7 +507,7 @@
         {
             "id": "observed-data--0f90a13c-dc18-44da-8315-d1fedbca3ed2",
             "number_observed": 1,
-            "first_observed": "2021-03-10T09:07:10.963035Z",
+            "first_observed": "2021-03-10T09:07:10.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -545,7 +545,7 @@
         {
             "id": "observed-data--7560a80f-c532-48ff-a5f0-89679adbeb61",
             "number_observed": 1,
-            "first_observed": "2021-02-18T07:44:16.112175Z",
+            "first_observed": "2021-02-18T07:44:16.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -583,7 +583,7 @@
         {
             "id": "observed-data--a912368f-df47-4872-a8d0-d8bdde136e58",
             "number_observed": 1,
-            "first_observed": "2021-02-21T10:31:50.264423Z",
+            "first_observed": "2021-02-21T10:31:50.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -621,7 +621,7 @@
         {
             "id": "observed-data--c8d9b89a-ee5a-4aad-8e34-dec824f2ec6e",
             "number_observed": 1,
-            "first_observed": "2021-01-16T02:14:39.559685Z",
+            "first_observed": "2021-01-16T02:14:39.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -659,7 +659,7 @@
         {
             "id": "observed-data--e24f3b4b-9253-4cfc-9163-030bfa9a0166",
             "number_observed": 1,
-            "first_observed": "2021-02-16T01:48:45.422894Z",
+            "first_observed": "2021-02-16T01:48:45.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -697,7 +697,7 @@
         {
             "id": "observed-data--a9541fc9-dc8c-4391-b50b-2e685fca34f6",
             "number_observed": 1,
-            "first_observed": "2021-02-22T05:44:50.513102Z",
+            "first_observed": "2021-02-22T05:44:50.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
@@ -735,7 +735,7 @@
         {
             "id": "observed-data--1ba36df8-c25d-4fe4-884b-7b35f7292c05",
             "number_observed": 1,
-            "first_observed": "2021-01-17T21:10:29.10461Z",
+            "first_observed": "2021-01-17T21:10:29.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
             "created": "2021-08-27T16:14:05.000Z",
             "modified": "2021-08-27T16:14:05.000Z",
