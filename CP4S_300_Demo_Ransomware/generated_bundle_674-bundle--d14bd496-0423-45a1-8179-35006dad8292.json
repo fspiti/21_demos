@@ -1,10 +1,9 @@
 {
     "id": "bundle--d14bd496-0423-45a1-8179-35006dad8292",
-    "spec_version": "2.0",
     "objects": [
         {
             "name": "AWS",
-            "identity_class": "events",
+            "identity_class": "system",
             "type": "identity",
             "id": "identity--772baef1-cad7-4abf-8277-18ee0ddac3b6",
             "created": "2021-08-27T16:14:05.000Z",
@@ -12,6 +11,7 @@
         },
         {
             "id": "observed-data--db65d180-39ff-4c86-9986-ae8225709e2c",
+            "created_by_ref": "identity--772baef1-cad7-4abf-8277-18ee0ddac3b6",
             "number_observed": 1,
             "first_observed": "2021-01-20T01:38:54.000Z",
             "last_observed": "2031-08-27T15:49:50.000Z",
@@ -26,5 +26,4 @@
             "type": "observed-data"
         }
     ],
-    "type": "bundle"
 }
